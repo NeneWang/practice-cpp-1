@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main_old() {
 	std::cout << "Never gonna give you up\n";
 	std::cout << "Never gonna let you down!\n";
 
