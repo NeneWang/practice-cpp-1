@@ -11,9 +11,12 @@ int main() {
 	double price = 9999.99;
 	char status = 'N';
 	bool for_sale = true;
+	string model = "Mustang";
 
-	cout << year << endl;
-	cout << price << endl;
+	cout << "Year: " << year << endl;
+	cout << "Price: " << price << endl;
+	cout << "New/Used: " << status << endl;
+	cout << "is onsale " <<  for_sale << endl;
 
 	return 0;
 }
