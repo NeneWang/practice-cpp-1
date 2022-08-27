@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main() {
+int main_2() {
 
 	string name;
 	int age;
